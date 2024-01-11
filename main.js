@@ -1,1 +1,1 @@
-console.log("Mix it up numver 6")
+console.log("Mix it up number 6")
